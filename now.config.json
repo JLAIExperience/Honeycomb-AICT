@@ -1,0 +1,15 @@
+{
+  "scope": "x_snc_james_test_a",
+  "scopeId": "18478ae3af0740d48280cd1931f040a1",
+  "name": "James Test App",
+  "metadataDir": "src/plugin-xmls",
+  "appOutputDir": "dist-metadata/app",
+  "packageSourceCodeOnInstance": true,
+  "staticContent": {
+    "assets": {
+      "./public/**": {
+        "publicPath": "[$config.aiux.basename]/public"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../servicenow-mcp"
+		},
+		{
+			"name": "james-test-app",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}

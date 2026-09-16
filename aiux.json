@@ -1,0 +1,11 @@
+{
+  "name": "James Test App",
+  "basename": "james-test-app",
+  "landing": "/home",
+  "development": {
+    "token": ""
+  },
+  "build": {
+    "exclude": ["**/*.test.js", "**/test/**"]
+  }
+}
